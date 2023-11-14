@@ -1,17 +1,12 @@
-### Hi there 👋
-<img width='200' src="[https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexandresanlim%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexander-Development1212%2Fhit-counter)" /> | `https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-<!--
-**Alexander-Development/Alexander-Development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Disclaimer
+### Anything you find on my GitHub page is for educational use only, I am not liable for any damages caused.
 
-Here are some ideas to get you started:
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Alexander-Development&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexander-Development&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+![](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/python-0078D6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
